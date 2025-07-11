@@ -6,20 +6,18 @@ The engine uses Minimax with Alpha-Beta pruning to deliver competitive gameplay 
 ---
 
 ## ✨ Features
-- 🧠 **AI Engine**: Minimax with Alpha-Beta pruning (configurable search depth).
+- 🧠 **AI Engine**: Minimax with Alpha-Beta pruning.
 - 🎯 **Modes**:
   - Player vs Bot (play as White or Black).
-  - Analysis mode.
+  - Analysis mode(To activate press "A" on keyboard).
 - 💻 Cross-platform support (Windows build provided).
 - 🔥 Built in Unity, coded entirely in C#.
-
 ---
 
 ## 📸 Screenshots
 
 <img width="1543" height="894" alt="Screenshot 2025-04-01 211902" src="https://github.com/user-attachments/assets/9da471b9-8ca2-40be-b531-41f73a553bc5" />
 <img width="657" height="655" alt="Screenshot 2025-03-05 192913" src="https://github.com/user-attachments/assets/bd6b1da5-392f-4bf6-9b35-563c255f7aac" />
-
 
 
 ---
@@ -40,7 +38,7 @@ A precompiled Windows build is available for direct download:
 ## 📦 Source Code
 The full Unity project is included in this repository.  
 To build it yourself:
-1. Open in Unity (tested with Unity version XYZ).
+1. Open in Unity (tested with Unity version 6000.0.32f1).
 2. Go to `File → Build Settings` and build for your target platform.
 
 ---

@@ -15,9 +15,13 @@ The engine uses Minimax with Alpha-Beta pruning to deliver competitive gameplay 
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0da2d095-e929-4a9a-a490-1faeaa4fbf03" />
 
 <img width="1543" height="894" alt="Screenshot 2025-04-01 211902" src="https://github.com/user-attachments/assets/9da471b9-8ca2-40be-b531-41f73a553bc5" />
-<img width="657" height="655" alt="Screenshot 2025-03-05 192913" src="https://github.com/user-attachments/assets/bd6b1da5-392f-4bf6-9b35-563c255f7aac" />
+
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/09ac5ea0-083c-46a8-b736-a094fc2ef6b7" />
+
+
 
 
 ---

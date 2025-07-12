@@ -48,7 +48,7 @@ To build it yourself:
 ---
 
 ## 📝 Notes
-This was a solo project created as part of my Computer Science degree (B.Tech in CSE (AI ML)).  
+This was a project created as part of my Computer Science degree (B.Tech in CSE (AI ML)).  
 It focuses on AI logic and game mechanics rather than advanced UI/UX.
 
 ---
